@@ -84,8 +84,37 @@ p {
     margin-left: 40px;
     border-bottom: 1px dashed black;
 }
-
 .img_wrapper {
     float: left;
     margin: 10px 30px;
+}
+.title1 {
+    padding-top: 20px;
+    margin-left: 40px;
+    border-bottom: 1px dashed black;
+    width: 680px;
+    text-align: left;
+}
+.products {
+    width: 787px;
+    text-align: center;
+}
+.guitars {
+    padding-left: 50px;
+}
+.wand{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p1{
+    width: 787px;
+}
+.title3 {
+    padding-top: 20px;
+    margin-left: 40px;
+    border-bottom: 1px dashed black;
+    width: 700px;
+}
+.box2 {
+    float: left;
 }
